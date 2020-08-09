@@ -13,7 +13,7 @@
 
 백엔드: node.js, python
 
-블록체인 플랫폼: Hyperledger Fabric, Golang
+블록체인 플랫폼: Hyperledger Fabric v1.3, Golang
 
 클라우드: Docker
 
