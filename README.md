@@ -5,14 +5,12 @@
 
 기술스택
 
-python
+프레임 워크: Django
 
-Javascript
+프론트엔드: Javascript
 
-node.js
+백엔드: node.js, python
 
-go lang
+블록체인 플랫폼: hyperledger, Golang
 
-hyperledger
-
-Docker
+클라우드: Docker
