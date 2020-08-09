@@ -7,7 +7,7 @@
 
 프레임 워크: Django
 
-프론트엔드: Javascript
+프론트엔드: Html, Css, Javascript
 
 백엔드: node.js, python
 
