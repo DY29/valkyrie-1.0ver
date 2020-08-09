@@ -14,3 +14,5 @@
 블록체인 플랫폼: hyperledger, Golang
 
 클라우드: Docker
+
+데이터베이스: Sqlite
