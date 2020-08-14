@@ -7,16 +7,16 @@
 
 
 
-기술스택
+- 기술스택
 
-프레임 워크: Django
+- 프레임 워크: Django
 
-프론트엔드: Html, Css, Javascript
+- 프론트엔드: Html, Css, Javascript
 
-백엔드: node.js, python
+- 백엔드: node.js, python
 
-블록체인 플랫폼: Hyperledger Fabric v1.3, Golang
+- 블록체인 플랫폼: Hyperledger Fabric v1.3, Golang
 
-클라우드: Docker
+- 클라우드: Docker
 
-데이터베이스: Sqlite
+- 데이터베이스: Sqlite
